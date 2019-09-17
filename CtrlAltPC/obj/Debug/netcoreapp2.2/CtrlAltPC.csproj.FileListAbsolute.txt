@@ -30,3 +30,4 @@ C:\Users\legob\source\repos\CtrlAltPC\CtrlAltPC\obj\Debug\netcoreapp2.2\CtrlAltP
 C:\Users\legob\source\repos\CtrlAltPC\CtrlAltPC\obj\Debug\netcoreapp2.2\CtrlAltPC.dll
 C:\Users\legob\source\repos\CtrlAltPC\CtrlAltPC\obj\Debug\netcoreapp2.2\CtrlAltPC.pdb
 C:\Users\legob\source\repos\CtrlAltPC\CtrlAltPC\obj\Debug\netcoreapp2.2\CtrlAltPC.csproj.CopyComplete
+C:\Users\legob\source\repos\CtrlAltPC\CtrlAltPC\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
